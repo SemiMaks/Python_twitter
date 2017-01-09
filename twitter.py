@@ -15,4 +15,4 @@ api = tweepy.API(auth)
 tweet = 'Пробная запись!'
 api.update_status(status=tweet)
 
-print ('tweet')
+print ('Запись добавлена успешно!')
