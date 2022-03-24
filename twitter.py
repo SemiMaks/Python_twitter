@@ -1,10 +1,10 @@
 import tweepy
 
 # переменные ключей и токенов
-consumer_key = 'JsV6FCCUsCqkKsbc2LzsBLlh2'
-consumer_secret = 'flC0NzGyKsrnb8vTLJvUtUoaDkw2UPuchPlgmk3VeFdKKsVkNo'
-access_token = '2335158726-XBiP8R9HT7ijIyl0RvHx2UWtmH8gsZYYhXILCY9'
-access_token_secret = 'hOwHDL2TlQvPS9N0tfNoWd6hV78J8O7xnrpaHGNTFQ45k'
+consumer_key = 'key'
+consumer_secret = 'secret'
+access_token = 'token'
+access_token_secret = 'token_secret'
 
 # настройки OAuth API
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
